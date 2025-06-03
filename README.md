@@ -2,8 +2,7 @@
 
 A collection of certain projects which implement HTML, CSS , JS concepts .
 
-## links:
+## Links:
 
-- [Spotify Clone](Spotify Clone)
-- [Webpage (frontend)](Webpage (frontend))
-
+- [Spotify Clone](Spotify%20Clone/)
+- [Webpage (frontend)](Webpage%20%28frontend%29/)
